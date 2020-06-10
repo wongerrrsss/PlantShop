@@ -6,7 +6,8 @@ class About extends Component {
         return (
             <div className='about-page'>
                 <div className="about-page-text-wrapper">
-                    <div className="floated"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p></div>
+                    <div className="floated"><p>picture here</p></div>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Corporis cumque perspiciatis quo maxime non laudantium nesciunt id doloribus amet nihil quae quam quisquam 
                     quasi repudiandae consequuntur, voluptas quibusdam nostrum suscipit! Odit architecto commodi, 
                     asperiores impedit aperiam accusantium nesciunt maxime eius quidem. Cupiditate quas quis non, excepturi sequi, 
