@@ -4,7 +4,7 @@ class Contact extends Component {
     render() {
         return (
             <div className='contact-page-wrapper'>
-                contact form will go here
+                <h1>contact us!</h1>
             </div>
         )
     }

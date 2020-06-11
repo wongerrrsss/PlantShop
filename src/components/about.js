@@ -7,6 +7,7 @@ class About extends Component {
         return (
             <div className='about-page'>
                 <div className="about-page-text-wrapper">
+                    <h3>about Joyce's.</h3>
                     <div className="floated">
                         <p>
                             <img src={Image} alt='plant shop picture' width="600" height="400"></img>
