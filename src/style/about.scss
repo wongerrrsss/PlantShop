@@ -1,7 +1,6 @@
 .about-page {
     margin-top: 65px;
     margin-left: 65px;
-    
 }
 
 .about-page-text-wrapper {
@@ -10,7 +9,12 @@
 }
 
 .floated {
-    float: left;
+    float: none;
     width: 150px;
     background: none;
+
+}
+
+.text {
+    float: inherit;
 }
