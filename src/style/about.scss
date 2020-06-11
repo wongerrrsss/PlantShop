@@ -4,17 +4,13 @@
 }
 
 .about-page-text-wrapper {
-    width: 400px;
-    background: none;
+    //width: 400px;
+   // background: none;
 }
 
-.floated {
-    float: none;
-    width: 150px;
-    background: none;
-
+.floated img {
+    float: left;
+    margin: 20px;
 }
 
-.text {
-    float: inherit;
-}
+
