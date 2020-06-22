@@ -7,6 +7,7 @@ class PlantCare extends Component {
         return (
             <div className="plant-care-wrapper">
                 <h3>some helpful plant care tips!</h3>
+                <img src={Image2} alt='little-shop-of-horrors-plant-gif'></img>
                 <ul>
                     <ol> Avoid annoying little flies by being careful not to tip tea and coffee into plant containers. The sugars left in the compost make it an ideal breeding ground for sciarid flies. </ol>
                     <ol> Use trough planters as natural screens. They reduce noise and are useful as barriers to separate walkways etc.</ol>
@@ -29,7 +30,6 @@ class PlantCare extends Component {
                         Once they've lost the foliage on their lower branches, it's very difficult to get it to return.
                     </ol>
                 </ul>
-                <img className='plant-care-gif' src={Image2} alt='little=shop-of-horrors=plant-gif'></img>
             </div>
         )
     }
