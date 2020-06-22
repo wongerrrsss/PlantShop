@@ -7,6 +7,7 @@ import Contact from './contact';
 import Home from './home';
 import FAQ from './faq';
 import PlantCare from './plantcare';
+import Footer from "./footer";
 
 
 export default class App extends Component {
@@ -23,6 +24,7 @@ export default class App extends Component {
               <Route path='/faq' exact component={FAQ} />
             </Switch>
         </BrowserRouter>
+        <Footer />
       </div>
     );
   }
