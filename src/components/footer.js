@@ -8,7 +8,7 @@ class Footer extends Component {
                     <ul>
                         <li><a href="/contact">Contact</a></li>
                         <li><a href="/faq">FAQ</a></li>
-                        <li>TMC Corporations &copy;Copyright 2020</li>
+                        <li>TMC Corporations &copy; 2020</li>
                     </ul>
                 </nav>
             </div>
