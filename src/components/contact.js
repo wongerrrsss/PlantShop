@@ -17,6 +17,10 @@ class Contact extends Component {
         return (
             <div className='contact-page-wrapper'>
                 <h1>get in touch!</h1>
+
+                <form.Group>
+                    <form.Label htmlFor="full-name">Full Name</form.Label> 
+                </form.Group>
             </div>
         )
     }
